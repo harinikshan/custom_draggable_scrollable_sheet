@@ -1,7 +1,8 @@
 name: custom_draggable_scrollable_sheet
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+author: harinikshanrockzz@gmail.com
+homepage: https://github.com/harinikshan/custom_draggable_scrollable_sheet.git
 
 environment:
   sdk: '>=2.7.0 <3.0.0'
